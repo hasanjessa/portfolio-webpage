@@ -14,7 +14,7 @@ p {
 /*header and footer will be dark background with lighter font color*/
 .headerfooter {
   color: rgb(229, 229, 235);
-  background-color:grey;
+  background-color:#d9a52e;
   text-align: center;
   padding: 8px
 }
