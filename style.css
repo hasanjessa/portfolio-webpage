@@ -19,6 +19,10 @@ p {
   padding: 8px
 }
 
+nav {
+  color: white
+}  
+
 li {
   list-style-position: inside
 }
