@@ -1,40 +1,43 @@
 h1 {
-  font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace
 }
 
 h2 {
- font-family: 'Courier New', Courier, monospace
+    font-family: 'Courier New', Courier, monospace
 }
 
 p {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 15px
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px
 }
 
 /*header and footer will be dark background with lighter font color*/
+
 .headerfooter {
-  color: #00fbff;
-  background-color:#d9a52e;
-  text-align: center;
-  padding: 8px
+    color: #00fbff;
+    background-color: #d9a52e;
+    text-align: center;
+    padding: 8px
 }
 
 nav {
-  color: white
-}  
+    color: white
+}
 
 li {
-  list-style-position: inside
+    list-style-position: inside
 }
 
 /* the main body of the webpage will be lighter background color with navy blue font color*/
+
 main {
-  text-align: center;
-  color: navy;
-  background-color: rgba(158, 149, 149, 0.404)
+    text-align: center;
+    color: navy;
+    background-color: rgba(158, 149, 149, 0.404)
 }
 
 /*padding should be provided between dividers so that it gives a good appearance between horizontal rules*/
+
 div {
-  padding: 10px
+    padding: 10px
 }
