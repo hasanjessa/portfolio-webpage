@@ -14,10 +14,11 @@ p {
 /*header and footer will be dark background with lighter font color*/
 
 .headerfooter {
-    color: #00fbff;
-    background-color: #d9a52e;
+    color: #6421e0;
+    background-color: #cebe98;
     text-align: center;
-    padding: 8px
+    padding: 8px;
+    height: auto 
 }
 
 nav {
@@ -39,5 +40,6 @@ main {
 /*padding should be provided between dividers so that it gives a good appearance between horizontal rules*/
 
 div {
+    margin: 5px;
     padding: 10px
 }
